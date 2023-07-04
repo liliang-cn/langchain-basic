@@ -1,0 +1,17 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/main.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Liang Li",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.101",
+    "openai": "^3.3.0"
+  }
+}
